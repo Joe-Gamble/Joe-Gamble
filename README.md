@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gamble!
 - 👀 I’m interested in machine learning, data serialization and tool development
-- 🌱 I’m currently learning how to apply proceduaral animations and how they can be used to create better combat combat systems in games.
+- 🌱 I’m currently developing a large personal project that aims to highlight my proficencies and further grow my game development knowledge.
 - 💞️ I’m looking to collaborate on game development projects and am looking specifically for c++/c# gameplay programmer oppurtunities.
 - 📫 How to reach me ...
       

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gamble!
-- ❗❗ DISCLAIMER: The majority of projects currently displayed on my profile where transfered from a university setting - I don't usually make commits like these! 
+- ❗❗ DISCLAIMER: The majority of projects currently displayed on my profile were transfered from a university database - I don't usually make commits like these! 
 - 👀 I’m interested in machine learning, data serialization and tool development
 - 🌱 I’m currently developing a large personal project that aims to highlight my proficencies and further grow my game development knowledge.
 - 💞️ I’m looking to collaborate on game development projects and am looking specifically for c++/c# gameplay programmer oppurtunities.

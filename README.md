@@ -75,5 +75,5 @@ Languages and Tools 🛠
 
 ## Contribution Graph 
 <a href="https://github.com/Joe-Gamble">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joe-Gamble&theme=light" style="width:75%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joe-Gamble&theme=light" style="width:100%"/>
   </a>

@@ -1,6 +1,8 @@
+#👋 Hi, I’m Gamble!
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
@@ -13,7 +15,7 @@
 
 
 
-#👋 Hi, I’m Gamble!
+
 - ❗❗ DISCLAIMER: The majority of projects currently displayed on my profile were transfered from a university database - I don't usually make commits like these! 
 - 👀 I’m interested in networking, data serialization and tool development
 - 🌱 I’m currently developing a large personal project that aims to highlight my proficencies and further grow my game development knowledge.

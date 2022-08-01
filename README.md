@@ -1,3 +1,5 @@
+[![Gamble's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joe-Gamble)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Gamble!
 - ❗❗ DISCLAIMER: The majority of projects currently displayed on my profile were transfered from a university database - I don't usually make commits like these! 
 - 👀 I’m interested in networking, data serialization and tool development

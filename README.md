@@ -8,11 +8,11 @@
 ### Showcase Projects ✨
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=swift  ">
-      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=swift  " />
+      <img aligh="left" width= "500" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=swift  " />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift  ">
-      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift  " />
+      <img aligh="left" width= "500" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift  " />
 </a>
 
 ---
@@ -68,3 +68,8 @@ Languages and Tools 🛠
 </details>
 
 ---
+
+## Contribution Graph 
+<a href="https://github.com/Joe-Gamble">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joe-Gamble&theme=light" style="width:75%"/>
+  </a>

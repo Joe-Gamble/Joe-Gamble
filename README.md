@@ -13,7 +13,7 @@
 
 
 
-###👋 Hi, I’m Gamble!
+#👋 Hi, I’m Gamble!
 - ❗❗ DISCLAIMER: The majority of projects currently displayed on my profile were transfered from a university database - I don't usually make commits like these! 
 - 👀 I’m interested in networking, data serialization and tool development
 - 🌱 I’m currently developing a large personal project that aims to highlight my proficencies and further grow my game development knowledge.

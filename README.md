@@ -48,23 +48,23 @@ Languages and Tools 🛠
 <br/>
 
 <a href="https://github.com/Joe-Gamble">
-  <img align="left" alt="Gambles's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Gambles's Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://instagram.com/joe_gambles/">
-  <img align="left" alt="Gambles's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img align="left" alt="Gambles's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
 <a href="https://twitter.com/GambleDev_">
-  <img align="left" alt="Gambles's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+  <img align="left" alt="Gambles's Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/joe-g-0a19b482/">
-  <img align="left" alt="Gambles's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Gambles's Linkdein" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
       
 <a href= "https://gambledev.com">
-  <img align="left" alt="Gambles's Website" width="22px" src="https://img.icons8.com/material-outlined/27/000000/geography.png" />
+  <img align="left" alt="Gambles's Website" width="30px" src="favicon.PNG" />
 </a>
 
 <br/>

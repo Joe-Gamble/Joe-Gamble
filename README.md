@@ -7,12 +7,12 @@ I am interested in AI, Networking and Tool Development with a specificity to the
 
 ### Showcase Projects ✨
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=default  ">
-      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=default  " />
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=swift  ">
+      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=Ralph&Background-generator&theme=swift  " />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=default  ">
-      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=default  " />
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift  ">
+      <img aligh="left" height= "150" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift  " />
 </a>
 
 ---

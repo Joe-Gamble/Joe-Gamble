@@ -1,7 +1,7 @@
 # Hi, I’m Gamble 👋 
 
 ### About Me 🏄‍♂️
-- I am a Junior Game Developer currently working in Unity in a professional capacity.<br/>
+- I am a Junior Game Developer currently working with Unity in a professional capacity.<br/>
 - Looking for oppurtunities in games within Gameplay Programming, Tool Development and Network Programming.<br/>
 - I am interested in AI, Networking and Tool Development with a specificity to their game integrations.
 

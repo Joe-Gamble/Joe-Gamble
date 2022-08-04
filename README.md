@@ -2,7 +2,7 @@
 
 ### About Me 🏄‍♂️
 - I am a Junior Game Developer currently working with Unity in a professional capacity.<br/>
-- Looking for oppurtunities in games within Gameplay Programming, Tool Development and Network Programming.<br/>
+- Interested in opportunities surrounding Gameplay Programming, Tool Development and Network Programming.<br/>
 - I am interested in AI, Networking and Tool Development with a specificity to their game integrations.
 
 ### Showcase Projects ✨

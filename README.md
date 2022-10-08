@@ -7,11 +7,11 @@
 
 ### Showcase Projects ✨
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GEngine&Background-generator&theme=swift">
+<a href="https://github.com/Joe-Gamble/GEngine">
       <img aligh="left" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GEngine&Background-generator&theme=swift" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift">
+<a href="https://github.com/Joe-Gamble/GNet">
       <img aligh="left" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Gamble&repo=GNet&Background-generator&theme=swift" />
 </a>
 

@@ -61,7 +61,7 @@ Languages and Tools 🛠
   <img align="left" alt="Gambles's Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/joe-g-0a19b482/">
+<a href="https://www.linkedin.com/in/joe-gamble/">
   <img align="left" alt="Gambles's Linkdein" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
       
